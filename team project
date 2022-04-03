@@ -1,6 +1,9 @@
 # 컴퓨터 그래픽스 팀프로젝트
+
 ## 소스코드
+
 ``` java script
+
 var cols, rows;
 var scl = 35;
 var w = 4000;
@@ -102,6 +105,7 @@ function draw() {
   camera(X,Y,800,50,100,100);
 }
 ```
+
 ![1](/img/3D-teamProject.gif)
 
 ## 소감
