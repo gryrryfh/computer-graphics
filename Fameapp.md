@@ -83,7 +83,7 @@ function draweyebrow(){
 ```
 
 ## 실행 결과
-![1](img/Faceapp.mp4)
+![1](image/Faceapp.mp4)
 
 ## 변형내용
 *
