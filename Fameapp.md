@@ -83,7 +83,7 @@ function draweyebrow(){
 ```
 
 ## 실행 결과
-![1](image/Faceapp.gif)
+![1](image/facedetection.mp4)
 
 ## 변형내용
 * 입술의 화장과 눈썹을 강조하기 위해 나머지 눈, 코와 관련된 내용들을 삭제했다.
